@@ -50,7 +50,7 @@ void output_divider_line(void)
 	return;
 }
 
-//removes_white_space_characters_at_the_beginning_of_the_string
+//removes white space characters at the beginning of the string
 std::string remove_white_space_characters_at_the_beginning(std::string &str)
 {
 	unsigned int i, len;
@@ -64,7 +64,7 @@ std::string remove_white_space_characters_at_the_beginning(std::string &str)
 	return (str1);
 }
 
-//removes_white_space_characters_at_the_end_of_the_string
+//removes white space characters at the end of the string
 std::string remove_white_space_characters_at_the_end(std::string &str)
 {
 	unsigned int i;
@@ -77,7 +77,7 @@ std::string remove_white_space_characters_at_the_end(std::string &str)
 	return (str1);
 }
 
-//prompts_usage
+//prompts usage
 void prompt_usage()
 {
 	output_divider_line();
@@ -86,7 +86,7 @@ void prompt_usage()
 	exit(EXIT_FAILURE);
 }
 
-//removes_white_space_characters_in_the_middle_of_the_string
+//removes white space characters in the middle of the string
 void remove_white_space_characters_in_the_middle(std::string &str)
 {
 	std::string character;
@@ -114,7 +114,7 @@ void remove_white_space_characters_in_the_middle(std::string &str)
 	}
 }
 
-//checks_string_if_it_is_empty_or_if_it_contains_only_white-space_characters
+//checks string if it is empty or if it contains only white-space characters
 void check_str(std::string &str)
 {
 	if (str.empty())
