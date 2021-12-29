@@ -1,6 +1,23 @@
+//Copyright 2021 Anton Pavlyukevich.
+
+//remove_whitespace_characters_from_string is free software: you can redistribute it and/or modify
+//it under the terms of the GNU General Public License as published by
+//the Free Software Foundation, either version 3 of the License, or
+//(at your option) any later version.
 //
-// Created by Waves Anisha on 12/27/21.
+//remove_whitespace_characters_from_string is distributed in the hope that it will be useful,
+//but WITHOUT ANY WARRANTY; without even the implied warranty of
+//MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//GNU General Public License for more details.
 //
+//You should have received a copy of the GNU General Public License
+//along with remove_whitespace_characters_from_string.  If not, see <https://www.gnu.org/licenses/>.
+
+//
+// Created by pavlyukevich.anton@gmail.com on 27.12.21
+//
+
+// built and tested on Darwin Kernel Version 18.7.0: Tue Jun 22 19:37:08 PDT 2021; root:xnu-4903.278.70~1/RELEASE_X86_64 x86_64
 
 #include <iostream>
 #include <fcntl.h>
