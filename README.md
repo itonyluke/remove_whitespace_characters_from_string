@@ -3,7 +3,7 @@
 #### install:
 `git clone https://github.com/itonyluke/remove_whitespace_characters_from_string remove_whitespace_characters_from_string`
 
-#### build:
+#### compile:
 `clang++ remove_whitespace_characters_from_string.cpp`
 
 #### run:
